@@ -13,4 +13,4 @@ class TestCA2(unittest.TestCase):
 
     def test_rectangle_area(self):
         ca2 = CA2()
-        assert ca2.rectangle_area(a=A, b=B) == 8
+        assert ca2.rectangle_area(a=A, b=B) == 18
