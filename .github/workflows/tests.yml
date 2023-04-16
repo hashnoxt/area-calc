@@ -1,7 +1,6 @@
 name: Tests
 run-name: ${{ github.actor }} is running tests
 on:
-  - merge
   - push
   - pull_request
 
