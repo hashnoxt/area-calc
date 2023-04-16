@@ -10,3 +10,7 @@ class TestCA2(unittest.TestCase):
     def test_triangle_area(self):
         ca2 = CA2()
         assert ca2.triangle_area(a=A, b=B) == 4
+
+    def test_rectangle_area(self):
+        ca2 = CA2()
+        assert ca2.rectangle_area(a=A, b=B) == 8

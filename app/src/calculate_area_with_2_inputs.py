@@ -13,3 +13,12 @@ class CA2(Area):
         """
         area = (1 / 2) * a * b
         return area
+
+    @staticmethod
+    def rectangle_area(a: float, b: float):
+        """Calculate area of the rectangle
+        a = height of the rectangle
+        b = width of the rectangle
+        """
+        area = a * b
+        return area
