@@ -15,5 +15,5 @@ class CA1(Area):
     @staticmethod
     def circle_area(r: float):
         """Calculate area of a circle"""
-        area: float = pi * r ** 2
-        return area
+        area: str = '{0:.2f}'.format(pi * r ** 2)
+        return float(area)

@@ -12,4 +12,4 @@ class TestCA1(unittest.TestCase):
 
     def test_circle_area(self):
         ca1 = CA1()
-        assert ca1.circle_area(r=A) == 50.26548245743669
+        assert ca1.circle_area(r=A) == 50.27
