@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: area-calc
+Version: 0.0.1
+Summary: For calculating area of different geometric shapes
+Home-page: https://github.com/hashnoxt/area-calc
+Author: Hashan Nalaka
+Author-email: t@test.com
+Classifier: Programming Language :: Python :: 3.10
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent
+Requires-Python: >=3.7
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# area-calc
+
+Python package for calculate area of different shapes
